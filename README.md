@@ -2,6 +2,8 @@
 
 **Datafile::Array** is a lightweight pure-Perl module for handling tabular/delimited data files.
 
+Repo moved to: https://codeberg.org/HansH111/Datafile-Array.pm
+
 It provides:
 - Reading and writing delimited data files (CSV, TSV, custom delimiters)
 - Optional CSV quoting with multi-line support
